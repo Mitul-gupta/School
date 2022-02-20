@@ -1,0 +1,63 @@
+body{
+
+    text-align: center;
+    
+    }
+    h1
+    {
+        font-family:'Comic Neue', cursive;
+        font-size: 30px ;
+    }
+    h2
+    {
+        font-family:'Comic Neue', cursive;
+        font-size: 20px ;
+    }
+    .line
+    {
+        height: 6px;
+        width: 70px;
+        margin: 8px auto;
+        background-color: black;
+        
+    }
+    .link{
+    
+    
+    
+        padding-left: 33px;
+        padding-right: 25px;
+        font-family: 'Comic Neue', cursive;
+        border: solid rgb(2, 0, 130) 3px;
+        color:lightcoral;
+        display: inline;
+    
+        
+    } 
+    .link:hover {
+        font-size: 25px;
+        text-decoration: underline;
+    }
+    .travel_mainDiv {
+border: 1px solid lightgray;
+
+    }
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin: 20px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i 
+{
+    float: right;
+}
+.achievement_text span
+{
+    color: orange;
+}
